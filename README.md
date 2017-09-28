@@ -27,3 +27,5 @@ Es:
 Cercherà qualsiasi pdf appartenente al dominio governo.it
 - `site:.governo.it -inurl:www.governo.it`
 Cercherà tutti i subdomain appartenente al dominio governo.it escludendo www.governo.it
+
+![goolehacking2](https://raw.githubusercontent.com/m4ll0k/Manuali-Informatica/master/googlehacking2.PNG)
