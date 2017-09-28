@@ -22,7 +22,7 @@ I motori di ricerca accettano il termine cercato e restituendo i risultati corri
 sono anche programmati per accettare operatori più avanzati che perfezionano la nostra ricerca.
 Un operatore è una parola chiave o una frase che ha un significato ben preciso per il motore di ricerca.
 
-Esempi:
+Es:
 - `site:governo.it filetype:pdf`
 Cercherà qualsiasi pdf appartenente al dominio governo.it
 - `site:.governo.it -inurl:www.governo.it`
