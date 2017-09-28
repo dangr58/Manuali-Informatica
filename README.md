@@ -10,6 +10,6 @@ __"Google Dorking"__ noto anche come __"Google Hacking"__ è una tecnica utilizz
 
 ### Precauzioni
 Se volete utilizzare "Google Dorking" come una tecnica investigativa durante le fasi di penetration non completamente
-legale, ci sono diverse precauzioni da prendere. Anche se siete liberi di cercare qualsiasi cosa, l'accesso a determinate
+legali, ci sono diverse precauzioni da prendere. Anche se siete liberi di cercare qualsiasi cosa, l'accesso a determinate
 pagine web o il download di file potrebbe essere un reato, specialmente negli Stati Uniti. È possibile che le vostre ricerche
-potranno essere registrate e utilizzate in futuro contro di voi.
+possono essere registrate e utilizzate in futuro contro di voi.
