@@ -29,3 +29,18 @@ Qualsiasi pdf appartenente al dominio governo.it
 Tutti i subdomain appartenente al dominio governo.it escludendo www.governo.it
 
 ![goolehacking2](https://raw.githubusercontent.com/m4ll0k/Manuali-Informatica/master/googlehacking2.PNG)
+
+## Parole Chiavi 
+
+| Dork | Descrizione | Google | DuckDuckGo | Yahoo | Bing |
+| --- | --- | --- | --- | --- | --- |
+| __cache__:[url] | None | Si | No | No | No |
+| __related__:[url] | None | Si | No | No | No |
+| __info__:[url] | None | Si | No | No | No |
+| __site__:[url] | None | Si | Si | Si | Si |
+| __intitle__:[testo]/__allintitle__:[testo] | None | Si | Si | Si | Si |
+| __inurl__:[testo]/__allinurl__:[testo] | None | Si | Si | No | No |
+| __meta__:[testo] | None | No | No | No | Si|
+| __filetype__:[estensione]/__ext__:[estensione] | None | Si | Si | Si | Si |
+
+
