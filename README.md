@@ -30,7 +30,7 @@ Tutti i subdomain appartenente al dominio governo.it escludendo www.governo.it
 
 ![goolehacking2](https://raw.githubusercontent.com/m4ll0k/Manuali-Informatica/master/googlehacking2.PNG)
 
-## Parole Chiavi 
+## Parole Chiave 
 
 | Dork | Descrizione | Google | DuckDuckGo | Yahoo | Bing |
 | --- | --- | --- | --- | --- | --- |
@@ -46,5 +46,17 @@ Tutti i subdomain appartenente al dominio governo.it escludendo www.governo.it
 | __inanchor__:[testo] | None | Si | No | No | Si |
 | __location__:[iso code]/__loc__:[iso code]/__region__:[region code] | None | No | Si | No | Si |
 | __contains__:[testo] | None | No | No | No | Si|
+| __altloc__:[iso code] | None | No | No | No | Si |
+| __domain__:[url] | None | No | No | No | Si |
+| __feed__:[rss] | None | No | Si | Si | Si |
+| __hasfeed__:[url] | None | No | Si | No | Si |
+| __imagesize__:[es: 600] | None | No | No | No | Si |
+| __ip__:[ip] | None | No | Si | Si | Si |
+| __keyword__:[testo] | None | No | No | No | Si |
+| __language__:[es: it] | None | No | No | Si | Si |
+| __book__:[titolo] | None | Si | No | No | No |
+| __maps__:[posizione] | None | Si | No | No | No |
+| __linkfromdomain__:[url] | None | No | No | No | Si |
+
 
 
