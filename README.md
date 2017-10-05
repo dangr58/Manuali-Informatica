@@ -65,7 +65,12 @@ Tutti i subdomain appartenente al dominio governo.it escludendo www.governo.it
 +(.mobi|.chm|.epub|.pdf|.doc) 'ethical hacking' intitle:"index of" -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml|py|rb)
 +(.mobi|.chm|.epub|.pdf|.doc) 'hacking' intitle:"index of" -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml|py|rb)
 +(.mobi|.chm|.epub|.pdf|.doc) intext:'hacking' -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml|py|rb)
+'programmazione' -inurl:('http://'|'https://') -inurl:https://books.google.com
 +("index of") +("/libri"|"/dispense") +(chm|pdf|doc)
+'programmazione' -inurl:('http://'|'https://')
+filetype:pdf 'programmare in python'
+site:*.it:8080 'programmazione'
+site:*.it:81 'programmazione'
 ```
 
 
