@@ -44,6 +44,7 @@ Tutti i subdomain appartenente al dominio governo.it escludendo www.governo.it
 | __filetype__:[estensione]/__ext__:[estensione] | None | Si | Si | Si | Si |
 | __intext__:[testo]/__allintext__:[testo]/__inbody__:[test] | None | Si | Si | Si | Si |
 | __inanchor__:[testo] | None | Si | No | No | Si |
-| __location__:[iso code]/__loc__:[iso code]/__region__:[region code] | No | Si | Si | Si |
+| __location__:[iso code]/__loc__:[iso code]/__region__:[region code] | None | No | Si | No | Si |
+| __contains__:[testo] | None | No | No | No | Si|
 
 
