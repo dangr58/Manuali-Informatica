@@ -58,5 +58,14 @@ Tutti i subdomain appartenente al dominio governo.it escludendo www.governo.it
 | __maps__:[posizione] | None | Si | No | No | No |
 | __linkfromdomain__:[url] | None | No | No | No | Si |
 
+## Esempi
+
+```
++(.mobi|.chm|.epub|.pdf|.doc) 'programmazione' intitle:"index of" -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml|py|rb)
++(.mobi|.chm|.epub|.pdf|.doc) 'ethical hacking' intitle:"index of" -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml|py|rb)
++(.mobi|.chm|.epub|.pdf|.doc) 'hacking' intitle:"index of" -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml|py|rb)
++(.mobi|.chm|.epub|.pdf|.doc) intext:'hacking' -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml|py|rb)
++("index of") +("/libri"|"/dispense") +(chm|pdf|doc)
+```
 
 
