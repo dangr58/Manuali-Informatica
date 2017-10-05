@@ -79,10 +79,9 @@ site:*.it:81 'programmazione'
 - [gen.lib.rus.ec](http://gen.lib.rus.ec/)
 - [b-ok.org](http://b-ok.org)
 - [bookfi.net](http://en.bookfi.net)
-- [https://sci-hub.ac/](sci-hub.ac)
+- [sci-hub.ac](sci-hub.ac)
 - [booksc.org](http://booksc.org/)
 - [torrentz2.eu](https://torrentz2.eu/)
 - [thepiratebay.org](https://thepiratebay.org/browse/601)
 - [1337x.to](https://1337x.to/sub/36/0/)
-
-
+- [ebookbay.la](http://ebookbay.la/)
